@@ -1,0 +1,28 @@
+Taj’s ideas on the project:
+
+ What are you looking for:
+
+Mens
+	Tops
+	Bottoms
+	Accessories/Shoes
+Womens
+	Tops
+	Bottoms
+	Accessories/Shoes
+Electronics
+	Accessories
+	Pc
+	Tab
+	Phone
+	??
+
+Each bullet list is its own dictionary.
+
+Data needed for each dictionary (at minimum):
+
+Price
+Image
+vendor
+
+
