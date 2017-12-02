@@ -1,0 +1,41 @@
+Reviewing Instructor: Wade Stringer
+
+Member Names: Cecil Dunston, Tajanae Harris, Kayla Mackie
+
+Overview: Our project will be a essentially a shopping app that collect price and category info from
+multiple sites over the web. It is aims at Christmas shopping and hopeful will be able to gather some
+seasonal sale data; otherwise, it will feature regular prices and show which websites a shopper can go
+for their orders.
+
+Inputs: Who customer is shopping for (W = women, M = men, B = boy, G = girl), budget
+Outputs: list of available items for each category, filters by price, a finalized cart once customer is
+finished shopping
+
+Explanation as Markdown:
+Shopping List: []
+Budget: Input(Please enter your budget)
+While budget not equal to “print list”:
+	Input: please enter who you are shopping for (W, M, B, G)
+If input = B
+Use web scrapping function definition to find all API keys for “boy” items
+Cart = Which item would you like to add to cart (enter key or press R for return)
+If cart =! R
+shopping_list = shopping_list.append
+If input = W
+Use web scrapping function definition to find all API keys for “women” items
+Cart = Which item would you like to add to cart (enter key or press R for return)
+If cart =! R
+shopping_list = shopping_list.append
+If input = M
+Use web scrapping function definition to find all API keys for “boy” items
+Cart = Which item would you like to add to cart (enter key or press R for return)
+If cart =! R
+shopping_list = shopping_list.append
+
+If input = G
+Use web scrapping function definition to find all API keys for “boy” items
+Cart = Which item would you like to add to cart (enter key or press R for return)
+If cart =! R
+shopping_list = shopping_list.append
+Print shopping list
+ 
