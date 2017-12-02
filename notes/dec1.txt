@@ -1,0 +1,18 @@
+Need to figure out:
+
+- which stores we are pulling from:
+	- wish.com
+	- zara (not an option anymore)
+	- macys
+
+cafepress (cheap tacky shirts, but cute)
+https://www.programmableweb.com/api/cafe-press
+
+ebay 
+https://www.programmableweb.com/api/ebay
+
+nyt bestsellers
+https://www.programmableweb.com/api/new-york-times-best-sellers
+
+etsy
+https://www.programmableweb.com/api/etsy
